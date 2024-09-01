@@ -13,7 +13,7 @@
   <br>
   <li>Launch the live server</li>
   <br>
-  <li>The development server will start running at port 5050</li>
+  <li>The development server will start running at port 5500</li>
 </ol>
 <br>
 <img src="https://github.com/user-attachments/assets/1efd6f4b-b1a1-4019-8e1b-5318ee8a9530">
